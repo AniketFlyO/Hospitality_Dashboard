@@ -1,5 +1,6 @@
 # Hospitality_Dashboard
 A dashboard to show KPI and important insights about a hospitality chain operating at multiple locations.
+<a href="https://github.com/AniketFlyO/Hospitality_Dashboard/blob/main/Dashboard.png">Dashboard</a>
 
 
 # Objective Description
